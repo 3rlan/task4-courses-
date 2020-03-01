@@ -1,5 +1,5 @@
 Project Title
-Course
+Course 
 
 Getting Started
 Courses is a simple API allowing users to view,delete and create courses.
